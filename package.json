@@ -1,6 +1,6 @@
 {
   "name": "@superinstance/substrate-bundle",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "BUNDLE opcode (R10): group observations into a named collection.",
   "main": "index.js",
   "types": "index.d.ts",
